@@ -1,1 +1,1 @@
-# odin-recipes
+Shocasing basic HTML and CSS skills on the Odin Project.
