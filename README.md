@@ -1,1 +1,1 @@
-Shocasing basic HTML and CSS skills on the Odin Project.
+Showcasing basic HTML and CSS skills on the Odin Project.
