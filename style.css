@@ -7,10 +7,14 @@ body {
     background-color: cyan;
     width: 50%;
     margin: 0 auto;
+    border: 1px solid brown;
+    padding: 1rem;
+    border-radius: 2.5rem;
 }
 
 .recipe-image {
-    width: 86rem;
+    width: 100%;
+    height: auto;
 }
 
 img {
@@ -29,4 +33,19 @@ h1 {
 
 .back-to-main {
     text-align: right;
+    padding-right: 1rem;
+}
+
+.recipe-link {
+    text-decoration: none;
+    font-size: 2.5rem;
+    color: rgb(73, 122, 54);
+}
+
+.recipe-link:hover {
+    color: rgb(19, 43, 124);
+}
+
+.recipe-links {
+    text-align: center;
 }
