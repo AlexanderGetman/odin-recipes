@@ -15,12 +15,10 @@ body {
 .recipe-image {
     width: 100%;
     height: auto;
-}
-
-img {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    border-radius: 2.5rem;
 }
 
 .underline {
@@ -48,4 +46,11 @@ h1 {
 
 .recipe-links {
     text-align: center;
+}
+
+.main-flag {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 25rem;
 }
